@@ -1,0 +1,6 @@
+{
+  "name": "ARROW KING",
+  "description": "Tap-to-slide snake-arrow maze puzzle game with infinite deterministic silhouette levels, procedural audio, themes, and rewarded Unity Ads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

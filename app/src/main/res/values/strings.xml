@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ARROW KING</string>
+    <string name="developer_name">AIMAN</string>
+    <string name="contact_email">aimangamerzzz@gmail.com</string>
+    <string name="ads_not_available">Ad not available, try again</string>
+    <string name="ads_not_set_up">Ads not set up yet</string>
+    <string name="levels_header">1000+ Levels, endless puzzles</string>
+</resources>
